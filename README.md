@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/[your-image-url](https://img.freepik.com/premium-photo/arduino-control-broad-element-photo-with-infographic-details_926199-3461193.jpg)/arduino.png" alt="Arduino" width="250"/>
+  <img src=(https://img.freepik.com/premium-photo/arduino-control-broad-element-photo-with-infographic-details_926199-3461193.jpg)/arduino.png" alt="Arduino" width="250"/>
 </p>
 
 <h1 align="center"> Hi 👋, I'm Surya Narayana Bhat </h1>
