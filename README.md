@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **RTL Projects**
 - 🌱 I’m learning **Verilog, FPGA Design, MATLAB**
 - 💬 Ask me about **Embedded Systems and Digital Design**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **suryanarayanabhat328@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
