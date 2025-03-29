@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center"> Hi 👋, I'm Surya Narayana Bhat </h1>
-<h3 align="center">A passionate Electronics Enthusiast/h3>
+<h3 align="center">A passionate Electronics Enthusiast</h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/your-image-url/bitmoji.png" alt="Bitmoji" width="150"/>
