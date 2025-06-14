@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=https://raw.githubusercontent.com/yourusername/yourrepo/main/image.png alt="Raspberry Pi" width="250"/>
+  <img src="https://your-image-link-here.png" width="300" alt="Raspberry Pi Illustration"/>
 </p>
 
 <h1 align="center"> Hi 👋, I'm Surya Narayana Bhat </h1>
