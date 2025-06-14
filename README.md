@@ -1,13 +1,15 @@
+<!--
 <p align="center">
   <img src="https://your-image-link-here.png" width="300" alt="Raspberry Pi Illustration"/>
-</p>
-
+</p>-->
 <h1 align="center"> Hi 👋, I'm Surya Narayana Bhat </h1>
 <h3 align="center">A passionate Electronics Enthusiast</h3>
 
+<!--
 <p align="center">
   <img src="https://user-images.githubusercontent.com/your-image-url/bitmoji.png" alt="Bitmoji" width="150"/>
 </p>
+-->
 
 - 🔝 I’m currently working on **RTL Projects and FPGA Design**  
 - 🌱 I’m learning **Verilog, SystemVerilog, FPGA Design, MATLAB**  
